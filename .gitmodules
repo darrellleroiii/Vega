@@ -1,0 +1,3 @@
+[submodule "Vega/vendor/spdlog"]
+	path = Vega/vendor/spdlog
+	url = https://github.com/gabime/spdlog

@@ -1,5 +1,5 @@
 #pragma once
-#include "core.h"
+#include "Core.h"
 
 namespace Vega {
 	class VEGA_API Application
